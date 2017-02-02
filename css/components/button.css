@@ -1,4 +1,7 @@
 .btn-medium{
+    position: absolute;
+    position: bottom;
+    position: left;
     color: #999999;
     border: 1px solid #999999;
     padding: 15px 25px;
