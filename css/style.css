@@ -1,3 +1,5 @@
+@import url("components/button.css");
+
 body{
   background: #EBEBEB;
 }
@@ -74,7 +76,7 @@ img {
   margin-bottom: 20px;
   border-radius: 4px;
   box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
-}/* Here goes your CSS */
+}
 
 .list {
   list-style: none;
